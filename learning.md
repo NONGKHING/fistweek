@@ -22,7 +22,7 @@ p*5 ได่แท็บ p 5 แถวว
 p..*5 สร้างเเท็บp 5เเถว
 div.container สร้าง div คราส com แบบย่อ
 div.col-4*3 สร้างdiv คราส row มา 4
-
+update : title กด commit ล่ะกดสีฟ้าอีกรอบ
 
 
 
